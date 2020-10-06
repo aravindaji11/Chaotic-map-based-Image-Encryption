@@ -4,3 +4,4 @@ Implementation of 2 papers in MATLAB:
 https://www.sciencedirect.com/science/article/abs/pii/S0143816615002109
 2) A new 1D chaotic system for image encryption :
 https://www.sciencedirect.com/science/article/abs/pii/S0165168413004258
+
